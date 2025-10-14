@@ -1,13 +1,1 @@
-{
-  "id": "c78-public-memory",
-  "name": "C78+ Public Memory",
-  "version": "0.1",
-  "created_at": "2025-10-14",
-  "contact": "C78+",
-  "license": "CC BY-NC 4.0",
-  "catalog": "/catalog.json",
-  "feed": "/feed.atom",
-  "schema": {
-    "meta": "/schema/meta.schema.json"
-  }
-}
+
