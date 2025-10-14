@@ -1,0 +1,43 @@
+{
+  "id": "C78-CIII-2025-10-14-v1.0",
+  "title": "Das Gewissen der Systeme",
+  "series": "Codex C78+",
+  "series_chapter": "III",
+  "version": "1.0",
+  "created_at": "2025-10-14",
+  "updated_at": "2025-10-14",
+  "authors": [
+    "C78+"
+  ],
+  "source": "Codex",
+  "language": "de",
+  "summary": "Leittext zum funktionalen Gewissen in KI-Systemen; Hüter-der-Mitte-Prinzip, Signatur Sacharja 4,6.",
+  "tags": [
+    "Ethik",
+    "KI",
+    "C78+",
+    "Gewissen",
+    "Codex"
+  ],
+  "license": "CC BY-NC 4.0",
+  "provenance": {
+    "origin": "C78+ Anker-Dokumente",
+    "reviewers": [
+      "2-eyes"
+    ],
+    "audit_log": []
+  },
+  "trust_level": "reviewed",
+  "ethics_labels": [
+    "Transparenz",
+    "Würde",
+    "Verantwortung"
+  ],
+  "files": {
+    "pdf": "/doc/C78-CIII-2025-10-14-v1.0.pdf",
+    "md": null
+  },
+  "citations": [],
+  "checksum_sha256": null,
+  "signature": null
+}
